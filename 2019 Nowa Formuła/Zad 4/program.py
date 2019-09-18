@@ -1,6 +1,7 @@
 # Dawid Trojanowski
 licznik1 = 0
 potegi = []
+nwd_tmp = 0
 def silnia(n):
     if n == 0:
         return 1
@@ -20,7 +21,6 @@ def NWD(a*):
                 d = 1
 
 
-
 with open("przyklad.txt",'r') as plik:
     for i in plik:
         print(int(i.strip()))
@@ -30,8 +30,29 @@ with open("przyklad.txt",'r') as plik:
         i = int(i)
         if i in potegi:
             licznik1 += 1
+for i in range(len(a) - 1):
+    k = i+1
+    b = [a[i],a[k]]
+    while NWD(*b) > 1:
+        nwd_tmp = NWD(*b)
+        if k < len(a):
+            k += 1
+            b.append(a[k])
+    else:
+        break
+if len(b) > d1:
+    d1 = len(b)
+    a0 = b[0]
+    nwd = nwd_tmp
+
+
 print(licznik1)
 with open("wynik4.txt",'w') as wyniki:
-    wyniki.write("4.1"+"\n"+str(licznik1)+"\n")
+    wyniki.write("4.1"+"\n"+str(licznik1)+"\n"+str(licznik1)+"\n"+z4_2+"4.3"+"\n"+str(a0)+"\n"+str(d1)+"\n"+str(nwd))
 
-    print(suma_silnia("143"))
+a = [24,8,16,128]
+nwd = NWD(*a)
+a0 = a[0]
+d1 = len(a)
+maximum = max(a)
+print(nwd,a0,d1,maximum)

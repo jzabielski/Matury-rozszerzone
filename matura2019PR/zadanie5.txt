@@ -1,0 +1,14 @@
+5.1
+63
+5.2
+
+5.3
+C1 Œrednia	3,41
+C3 Œrednia	9,05
+C4 Œrednia	11,58
+C5 Œrednia	19,40
+S1 Œrednia	3,73
+S2 Œrednia	6,52
+S3 Œrednia	10,29
+S4 Œrednia	15,00
+S5 Œrednia	19,64

@@ -1,0 +1,27 @@
+6.1
+Oyal Priather
+Ologne D'oud
+Uelques FleuE
+
+6.2
+rodzina_zapachow	Minimum Of cena
+aromatyczna	124
+cytrusowa	259
+cytrusowo-aromatyczna	178
+drzewna	123
+kwiatowa	110
+kwiatowo-drzewna	104
+kwiatowo-orientalna	103
+kwiatowo-szyprowa	287
+orientalna	113
+orientalna lagodna	122
+orientalno-drzewna	138
+owocowa	154
+pudrowa	139
+skorzana	112
+szyprowa	226
+szyprowo-skorzana	158
+wodna	146
+zielona	406
+
+6.3

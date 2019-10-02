@@ -1,0 +1,44 @@
+6.1
+Oyal Priather
+Ologne D'oud
+Uelques FleuE
+
+6.2
+rodzina_zapachow	Minimum Of cena
+aromatyczna	124
+cytrusowa	259
+cytrusowo-aromatyczna	178
+drzewna	123
+kwiatowa	110
+kwiatowo-drzewna	104
+kwiatowo-orientalna	103
+kwiatowo-szyprowa	287
+orientalna	113
+orientalna lagodna	122
+orientalno-drzewna	138
+owocowa	154
+pudrowa	139
+skorzana	112
+szyprowa	226
+szyprowo-skorzana	158
+wodna	146
+zielona	406
+
+6.4
+rodzina_zapachow	nazwa_m	nazwa_p	nowa_cena
+orientalno-drzewna	Mou De Rosine	Elov & Musc	660,45
+orientalno-drzewna	Mou De Rosine	Pic An	230,35
+orientalno-drzewna	Mou De Rosine	Ate An	544,85
+orientalno-drzewna	Mou De Rosine	Onou Back	222,7
+orientalno-drzewna	Mou De Rosine	Nterl Bambola	292,4
+orientalno-drzewna	Mou De Rosine	Ourn Boise	141,95
+orientalno-drzewna	Mou De Rosine	Ubilatio Champs	381,65
+orientalno-drzewna	Mou De Rosine	Ibrary Ollec D'or	489,6
+
+6.5
+Nazwa marki Rodzina zapachów
+Ightce aromatyczna
+X ICologne orientalno-drzewna
+Nnick a Kieffo orientalna
+Enmith kwiatowo-orientalna
+Issmkunstwerke orientalna 

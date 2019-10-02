@@ -24,4 +24,21 @@ szyprowo-skorzana	158
 wodna	146
 zielona	406
 
-6.3
+6.4
+rodzina_zapachow	nazwa_m	nazwa_p	nowa_cena
+orientalno-drzewna	Mou De Rosine	Elov & Musc	660,45
+orientalno-drzewna	Mou De Rosine	Pic An	230,35
+orientalno-drzewna	Mou De Rosine	Ate An	544,85
+orientalno-drzewna	Mou De Rosine	Onou Back	222,7
+orientalno-drzewna	Mou De Rosine	Nterl Bambola	292,4
+orientalno-drzewna	Mou De Rosine	Ourn Boise	141,95
+orientalno-drzewna	Mou De Rosine	Ubilatio Champs	381,65
+orientalno-drzewna	Mou De Rosine	Ibrary Ollec D'or	489,6
+
+6.5
+Nazwa marki Rodzina zapachów
+Ightce aromatyczna
+X ICologne orientalno-drzewna
+Nnick a Kieffo orientalna
+Enmith kwiatowo-orientalna
+Issmkunstwerke orientalna 

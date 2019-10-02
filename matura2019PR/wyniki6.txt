@@ -34,3 +34,20 @@ Enmith
 Nnick a Kieffo
 
 6.4
+nazwa_p	nowa_cena
+Ourn Boise	141,95
+Onou Back	222,7
+Pic An	230,35
+Nterl Bambola	292,4
+Ubilatio Champs	381,65
+Ibrary Ollec D'or	489,6
+Ate An	544,85
+Elov & Musc	660,45
+
+6.5
+nazwa_m	Pierwszy Of rodzina_zapachow
+Enmith	kwiatowo-orientalna
+Ightce	aromatyczna
+Issmkunstwerke	orientalna
+Nnick a Kieffo	orientalna
+X ICologne	orientalno-drzewna

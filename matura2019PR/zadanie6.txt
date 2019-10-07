@@ -2,3 +2,47 @@
 Oyal Priather
 Ologne D'oud
 Uelques FleuE
+
+6.2
+rodzina_zapachow	MinimumOfcena	nazwa_p
+aromatyczna	124	Ibrary Ollec D'amore
+cytrusowa	259	Sian Grad
+cytrusowa	259	Hapter I:ubereuse
+cytrusowo-aromatyczna	178	Re Nostrum,ir
+drzewna	123	Pperlee Bouquet
+kwiatowa	110	Ose Deurmaline
+kwiatowo-drzewna	104	Rougna
+kwiatowo-orientalna	103	Arla : Vivace
+kwiatowo-szyprowa	287	Etish Pothal
+kwiatowo-szyprowa	287	Sian Tales: Floweer
+kwiatowo-szyprowa	287	Ink Qour Homme
+orientalna	113	Leur Noe Siwa
+orientalna	113	Anille La Tosca
+orientalna lagodna	122	Ndy Warhol S Rose
+orientalno-drzewna	138	LackNight
+owocowa	154	Hapter Iiude An
+owocowa	154	Ake Perfucturne
+pudrowa	139	Oses nos
+pudrowa	139	Ivm Cristal
+skorzana	112	Ui Mare
+szyprowa	226	Usk ti 1888
+szyprowo-skorzana	158	Am01
+szyprowo-skorzana	158	Uir OtPlace
+szyprowo-skorzana	158	Armes U Loup
+wodna	146	Ilver Mounaya
+wodna	146	Ed Love, Prohibited
+zielona	406	EOman
+6.3
+
+
+6.4
+660,45	Elov & Musc
+230,35	Pic An
+544,85	Ate An
+222,7	Onou Back
+292,4	Nterl Bambola
+141,95	Ourn Boise
+381,65	Ubilatio Champs
+489,6	Ibrary Ollec D'or
+
+6.5

@@ -1,0 +1,30 @@
+6.1
+Pojemnosc_dysku Pole	Ilość
+800	29
+700	28
+600	26
+500	31
+400	20
+390	7
+380	2
+370	8
+360	2
+350	8
+
+6.2
+Numer_komputera	PoliczOfNumer_komputera
+42	11
+123	11
+171	12
+202	12
+
+6.3
+Dzień: 23-12-2015, sekcja Q
+
+6.4
+Numer zgłoszenia 2087
+Czas wystąpienia awarii 06-11-2015 12:38:46
+Czas zakończenia ostatniej naprawy 13-11-2015 12:38:32
+
+6.5
+149 

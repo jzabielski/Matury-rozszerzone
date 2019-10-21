@@ -1,0 +1,27 @@
+6.1
+Pojemnosc_dysku Pole	LiczbaPowtórzeń
+300			173
+200			31
+500			31
+800			29
+700			28
+600			26
+400			20
+290			11
+160			10
+220			10
+
+6.2
+Komputer   Liczba wymian podzespołów
+202    		12 
+123    		11  
+171    		12  
+42     		11 
+
+6.3
+Dzien 		Sekcja
+23.12.2015	Q
+
+6.4
+Czas_awarii		Czas_naprawy			Numer_zgloszenia
+06.11.2015 12:38:46	13.11.2015 12:38:32		2087

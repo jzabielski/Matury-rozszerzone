@@ -1,0 +1,14 @@
+1a.
+Rodzaj_meczu	Liczba meczow
+L	113
+P	25
+T	6 
+
+1b.
+Rok	Liczba
+2011	9
+
+2.
+Nazwa	Bilans
+Nocne Pumy	0
+Zwinne Mewy	0

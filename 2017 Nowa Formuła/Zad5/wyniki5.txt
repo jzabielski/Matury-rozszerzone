@@ -12,3 +12,12 @@ Rok	Liczba
 Nazwa	Bilans
 Nocne Pumy	0
 Zwinne Mewy	0
+
+3.
+Wyr1	PoliczOfIdentyfikator
+Przegrany	452
+Remis	170
+Wygrana	579
+
+4.
+22

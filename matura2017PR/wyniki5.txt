@@ -1,0 +1,23 @@
+5.1a
+Rodzaj_meczu	Liczba meczów
+L	113
+P	25
+T	6
+
+5.1b
+Data_meczu 	Ilość meczy
+2007		21
+
+5.2
+Nazwa	Wyraz
+Nocne Pumy	0
+Zwinne Mewy	0
+5.3
+
+PoliczOfIdentyfikator	Wyr
+452	Przegrana
+170	Remis
+579	Wygrana
+
+5.4
+22

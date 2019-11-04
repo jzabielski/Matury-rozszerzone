@@ -1,0 +1,13 @@
+6.1
+Wartość najjaśniejszego piksela 221.
+Wartość najciemniejszego piksela 7. 
+
+6.2
+149
+
+6.3
+753
+
+6.4
+
+5

@@ -1,0 +1,20 @@
+5.1
+a
+113	L
+25	P
+6	T
+
+b
+2007
+21
+5.2
+Nocne Pumy
+Zwinne Mewy
+
+5.3
+przegrana	452
+remis	170
+wygrana	579
+
+5.4
+22

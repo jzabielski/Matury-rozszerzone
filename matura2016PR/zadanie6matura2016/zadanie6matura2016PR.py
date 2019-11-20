@@ -41,8 +41,10 @@ with open("dane_6_3.txt", "r") as dane:
         z = slowo[0][0]
         z_z = slowo[1][0]
         k = ord(z_z) - ord(z)
-
-      #  if slowo[1]!= szyfruj_slowo(slowo[0])
+        if k < 0:
+            k = 26 + k
+        if slowo[1] != szyfruj_slowo(slowo[0], k):
+            bledy += slowo[0] + "\n"
 
 with open("wyniki_6_3.txt", "w") as w:
     w.write(bledy)

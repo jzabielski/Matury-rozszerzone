@@ -1,0 +1,54 @@
+a)
+391790	L
+400713	W
+
+b)
+BARTEX	PN	3661T
+BARTEX	PN	3651R
+BARTEX	PN	3641B
+BARTEX	PN	3631H
+BARTEX	PN	3621I
+BARTEX	PN	16838
+BARTEX	PN	16836
+BARTEX	PN	16834
+BARTEX	PN	16832
+BARTEX	PN	16830
+BARTEX	PN	16828
+BARTEX	PN	16826
+BARTEX	PN	16824
+BARTEX	PN	16822
+
+c)
+
+13 - WROCBUD2
+
+d)
+powiat
+bedzinski
+bialostocki
+braniewski
+buski
+elblaski
+elcki
+gorowski
+jeleniogorski
+kluczborski
+koscianski
+leczynski
+lubelski
+nyski
+olawski
+olsztynski
+opolski
+pilski
+siemiatycki
+tarnobrzeski
+tarnogorski
+tarnowski
+turecki
+zamojski
+
+e)
+BARTEX		2 325,64 zł
+REFAMUR		2 590,13 zł
+WIET-IND	2 556,43 zł

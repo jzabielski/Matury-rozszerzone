@@ -1,0 +1,38 @@
+a)
+AA2005	Charlie i fabryka czekolady
+AC2005	Kevin sam w domu
+AB2005	Madagaskar
+BD2005	Opowiesci z Narnii: Lew, czarownica i stara szafa
+
+b)
+97	horror
+
+c)
+24	6
+31	7
+31	8
+37	9
+45	10
+48	11
+58	12
+
+d)
+
+Bartlomiej	Wojciechowski	77 zl
+
+e)
+9
+Jumper
+Straszny film
+Katyn
+Oszukac przeznaczenie
+Mgla
+Pianista
+Eurotrip
+The Ring
+Mumia
+
+
+
+
+
